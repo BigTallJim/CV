@@ -1,6 +1,13 @@
-## Your Name
+## James Holton
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+I have worked for the John Lewis Partnership in a number of roles including software engineer, software designer, Operations Manager, Delivery Manager and Integration Practice Manager.  I have also recently taken on the additional role of People Manager.
+
+I've decided i've been too long with the work Manager at the end of my job description and am now concentrating all my efforts on rebuilding my Software Development skills.
+
+I have worked on a number of high profile projects including the replacement of the in-house credit system with a third party package, the design, implementation and support of the new Replenishment System and implementation of a managed service in both Web Back Office and the Integration Practice.
+
+The majority of my more recent roles have required building good working relationships with many areas of the business, from business and operations teams, to Programme Managers and senior representatives from our numerous third party suppliers (Cognizant, SAG, Ab Initio).
+
 
 ## Skills
 
