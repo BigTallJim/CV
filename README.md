@@ -4,33 +4,20 @@ I have worked for the John Lewis Partnership in a number of roles including soft
 
 I've decided i've been too long with the work Manager at the end of my job description and am now concentrating all my efforts on rebuilding my Software Development skills.
 
-I have worked on a number of high profile projects including the replacement of the in-house credit system with a third party package, the design, implementation and support of the new Replenishment System and implementation of a managed service in both Web Back Office and the Integration Practice.
+## Skills
+
+
+#### Software Design and Development
+
+I have worked on a number of high profile projects including the replacement of the in-house credit system with a third party package, the design, implementation and support of the Department Store Replenishment System and implementation of a managed service in both Web Back Office and the Integration Practice.
+
+#### Stakeholder Manangement
 
 The majority of my more recent roles have required building good working relationships with many areas of the business, from business and operations teams, to Programme Managers and senior representatives from our numerous third party suppliers (Cognizant, SAG, Ab Initio).
 
-
-## Skills
-
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (August 2019 to November 2019)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
@@ -39,24 +26,47 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Your University / College (start_date to end_date)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+University of Kent								                            1993 - 1996
+BSC in Management Science	
+Second Class Upper Division
+ 
+Queen Marys College, Basingstoke		                          1991 – 1993
+‘A’ Levels – 3 at Grade C
 
-#### Any other qualifications
+Robert Mays Secondary School, Odiham                          1985 – 1991 
+GCSEs – 6 at Grade A, 2 at Grade B, 2 at Grade C	
 
-That in some arguable way make you a better software developer or well-rounded person
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-- Any experience relevent to software development
+## Solution Development Manager – Integration                   August 2014 - Current  
+Responsible for running the Integration and BI teams within the Design and Development Practice.
 
-**Company Name** (start_date to end_date)   
-*Your job title*  
-- Any experience relevent to software development
+## Systems Manager – Web Back Office	                          March 2012 – August 2014  
+Responsible for the development and enhancements to website back office systems, including website Order Management, Corporate Sales and Telesales.
+
+## Group Leader - Selling Service Systems			                  July 2009 – March 2012 
+Responsible for coordinating day-to-day support of Selling Service Systems, including CSS, Gift List, Customer Query Management and the Customer Delivery System.
+
+## Principal Programmer - Replenishment			                    February 2005 – July 2009 
+Responsible for the design of the new Replenishment System, management and quality control of programmer resource (internal and third party).
+
+## Senior Programmer - Stock & Sales				                    November 2001 – February 2005
+Supported the design, coding, and implementation of the FOCUS buying office system.
+
+## Senior Programmer - Credit				                            June 1999 – November 2001
+Led the batch integration of a credit card system purchased from Equifax Card Solutions.
+
+## Programmer - Central Accountancy				                      September 1996 – June 1999
+One of two programmers looking after the Central Accountancy Systems 
+
+
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Keen Triathlete
+Chairman of the John Lewis Running Club
+Handicap Secretary for the Victoria Golf Society
+Member of Venture Club and Swimming Club
+
+
