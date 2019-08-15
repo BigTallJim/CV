@@ -26,38 +26,38 @@ The majority of my more recent roles have required building good working relatio
 
 #### Your University / College (start_date to end_date)
 
-University of Kent								                            1993 - 1996
+#### University of Kent: 1993 - 1996
 BSC in Management Science	
 Second Class Upper Division
  
-Queen Marys College, Basingstoke		                          1991 – 1993
+#### Queen Marys College, Basingstoke: 1991 – 1993
 ‘A’ Levels – 3 at Grade C
 
-Robert Mays Secondary School, Odiham                          1985 – 1991 
+#### Robert Mays Secondary School, Odiham: 1985 – 1991 
 GCSEs – 6 at Grade A, 2 at Grade B, 2 at Grade C	
 
 
 ## Experience
 
-Solution Development Manager – Integration                   August 2014 - Current  
+#### Solution Development Manager – Integration: August 2014 - Current  
 Responsible for running the Integration and BI teams within the Design and Development Practice.
 
-Systems Manager – Web Back Office	                          March 2012 – August 2014  
+#### Systems Manager – Web Back Office: March 2012 – August 2014  
 Responsible for the development and enhancements to website back office systems, including website Order Management, Corporate Sales and Telesales.
 
-Group Leader - Selling Service Systems			                  July 2009 – March 2012 
+#### Group Leader - Selling Service Systems: July 2009 – March 2012 
 Responsible for coordinating day-to-day support of Selling Service Systems, including CSS, Gift List, Customer Query Management and the Customer Delivery System.
 
-Principal Programmer - Replenishment			                    February 2005 – July 2009 
+#### Principal Programmer - Replenishment: February 2005 – July 2009 
 Responsible for the design of the new Replenishment System, management and quality control of programmer resource (internal and third party).
 
-Senior Programmer - Stock & Sales				                    November 2001 – February 2005
+#### Senior Programmer - Stock & Sales: November 2001 – February 2005
 Supported the design, coding, and implementation of the FOCUS buying office system.
 
-Senior Programmer - Credit				                            June 1999 – November 2001
+#### Senior Programmer - Credit: June 1999 – November 2001
 Led the batch integration of a credit card system purchased from Equifax Card Solutions.
 
-Programmer - Central Accountancy				                      September 1996 – June 1999
+#### Programmer - Central Accountancy: September 1996 – June 1999
 One of two programmers looking after the Central Accountancy Systems 
 
 
