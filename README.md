@@ -24,8 +24,6 @@ The majority of my more recent roles have required building good working relatio
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
-
 #### University of Kent: 1993 - 1996
 BSC in Management Science	
 Second Class Upper Division
@@ -64,9 +62,9 @@ One of two programmers looking after the Central Accountancy Systems
 
 ## Hobbies
 
-Keen Triathlete
-Chairman of the John Lewis Running Club
-Handicap Secretary for the Victoria Golf Society
-Member of Venture Club and Swimming Club
+#### Keen Triathlete
+#### Chairman of the John Lewis Running Club
+#### Handicap Secretary for the Victoria Golf Society
+#### Member of Venture Club and Swimming Club
 
 
